@@ -1,0 +1,4 @@
+﻿  test.c
+D:\A_Program\Struct\Sort_all\Sort_all\test.c(53,2): warning C4013: “MergeSort”未定义；假设外部返回 int
+D:\A_Program\Struct\Sort_all\Sort_all\test.c(61,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Sort_all.vcxproj -> D:\A_Program\Struct\Sort_all\x64\Debug\Sort_all.exe
